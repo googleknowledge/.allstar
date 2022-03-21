@@ -4,4 +4,4 @@ optConfig:
   # optOutRepos:
   # - repo-name-one
   # - repo-name-two
-action: log
+action: issue
